@@ -1,0 +1,18 @@
+@import './sass/reset';
+@import './sass/variables';
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Distressed&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Wittgenstein:ital,wght@0,400..900;1,400..900&display=swap');
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: $backgroundColor;
+  background: $backgroundImage;
+}
+
+
+
